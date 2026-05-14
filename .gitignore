@@ -1,0 +1,15 @@
+# Pastas de compilação e binários
+[Bb]in/
+[Oo]bj/
+
+# Configurações do Visual Studio e VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Segredos e Configurações Locais
+appsettings.json
+
+# Docker
+.dockerignore

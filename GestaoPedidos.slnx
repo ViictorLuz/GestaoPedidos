@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="GestaoPedidos.API/GestaoPedidos.API.csproj" Id="751d4ca5-5c89-4f52-be98-6c14abc427cc" />
+  <Project Path="GestaoPedidos.Application/GestaoPedidos.Application.csproj" Id="bfaae87c-9414-4772-a3c1-c5fb83bed7a5" />
+  <Project Path="GestaoPedidos.Domain/GestaoPedidos.Domain.csproj" Id="d369bffd-0d4c-43e1-acd8-75d982af211e" />
+  <Project Path="GestaoPedidos.Infrastructure/GestaoPedidos.Infrastructure.csproj" Id="427f03ef-c4c0-4eb7-9d52-c53ca798f122" />
+  <Project Path="GestaoPedidos.Tests/GestaoPedidos.Tests.csproj" Id="bc7e644a-851b-4557-b66c-2be31ae59a3f" />
+</Solution>
